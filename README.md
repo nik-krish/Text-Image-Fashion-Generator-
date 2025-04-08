@@ -122,10 +122,6 @@ for epoch in range(epochs):
 
 ## 📷 Sample Output 
 
-<p align="center">
-  <img src="![fake_epoch_20](https://github.com/user-attachments/assets/20a1e33a-0596-4c2d-b165-7d7399dac7d1)
-" width="200"/>
-</p>
 
 ---
 
