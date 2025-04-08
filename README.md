@@ -1,4 +1,3 @@
-![Screenshot 2025-04-08 160732](https://github.com/user-attachments/assets/86c53a48-eacc-4c18-8d8b-3802ef0add6a)
 # 👗 Text-to-Fashion Image Generation with CLIP-Guided GAN
 
 This project is a Text-to-Fashion Image Generation App built with a custom GAN model to generate realistic **fashion images** from **text prompts** using CLIP-guided supervision. It uses the [DressCodePromptSketch](https://huggingface.co/datasets/Abhi5ingh/Dresscodepromptsketch) dataset and improves generation quality using **CLIP loss**, **WGAN-GP**, and **Adaptive Instance Normalization (AdaIN)**.
