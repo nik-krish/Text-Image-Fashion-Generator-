@@ -122,6 +122,7 @@ for epoch in range(epochs):
 
 ## 📷 Sample Output 
 
+![fake_epoch_20](https://github.com/user-attachments/assets/86fec03c-5dea-43a2-88a4-0a8ae246d01e)
 
 ---
 
