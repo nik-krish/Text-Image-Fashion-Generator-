@@ -204,6 +204,6 @@ React app runs at: `http://localhost:3000`
 ## 👨‍💻 Author
 
 Built by **Nikhil Krishan**
-Contact:s.nikhilkrishnan@gmail.com
+Contact: s.nikhilkrishnan@gmail.com
 
 ---
