@@ -7,7 +7,7 @@ This project is a Text-to-Fashion Image Generation App built with a custom GAN m
 
 ## 🌐 Demo
 
-
+![Screenshot 2025-04-08 160732](https://github.com/user-attachments/assets/365ac863-c223-4627-89bb-f1d1c347f9f7)
 
 ---
 
